@@ -1,0 +1,20 @@
+Package: tpbx
+Version: 1.0.0
+Architecture: all
+Maintainer: Tronicster Software
+Depends: python3, python3-pip, python3-flask, python3-pil, python3-werkzeug
+Filename: apt/pool/tpbx_1.0.0_all.deb
+Size: 1924872
+MD5sum: 1c20b4cf7c63c49a5b44d19015f9095e
+SHA1: a39a3ac00539b509820f031c1c63cc27608a0760
+SHA256: fe36b46c75440a1f4312ae28794f82137e251c35cfb7f4f24586ce37c1f24706
+Section: net
+Priority: optional
+Description: TPbx PBX Management System
+ TPbx is a web-based PBX management interface
+ developed by Tronicster Software.
+ .
+ This package installs the TPbx application,
+ permanent branding, updater, ext command,
+ and tpbx launcher command.
+
